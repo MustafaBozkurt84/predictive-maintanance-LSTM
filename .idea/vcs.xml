@@ -5,5 +5,6 @@
     <mapping directory="$PROJECT_DIR$/ARIMA-And-Seasonal-ARIMA" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Hands-On-Artificial-Intelligence-for-IoT" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Lstm-Machine-failure" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/predictive-maintanance-LSTM" vcs="Git" />
   </component>
 </project>
